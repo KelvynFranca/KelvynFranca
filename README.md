@@ -56,5 +56,5 @@ Tenho 29 anos, moro em Boa vista - RR ! Sou iniciante nesse universo da programa
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynfranca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
