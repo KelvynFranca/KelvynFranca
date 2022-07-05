@@ -46,7 +46,8 @@ Tenho 29 anos, moro em Boa vista - RR ! Sou iniciante nesse universo da programa
  <p align="left">📚 No momento estou estudando React.js e Next.js;</p>
 </div>
 
-
+</br>
+</br>
 
 
 <div align="center">
