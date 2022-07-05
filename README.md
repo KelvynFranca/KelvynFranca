@@ -26,9 +26,8 @@
 
 Tenho 29 anos, moro em Boa vista - RR ! Sou iniciante nesse universo da programação, estou dando tudo que eu tenho de melhor para ser um excelente Dev para tentar mudar o dia a dia das pessoas com projetos inovadores.
 
-
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-
+</br>
+</br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <div style="display: inline_block"><br>
