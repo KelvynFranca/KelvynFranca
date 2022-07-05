@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/5hIUH3A.png">
+<img src="https://i.imgur.com/fINRe8H.png">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=E85C7E&background=FF000000&center=true&lines=++++++++++++++++++++++Eae+Dev!;Bem+vindo+ao+meu+perfil+GitHub)](https://git.io/typing-svg)
 
